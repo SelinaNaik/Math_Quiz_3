@@ -1,0 +1,21 @@
+#Login_Button {
+    color: brown;
+    font-family:fantasy;
+    background-color: rgb(0, 0, 0);
+}
+
+#Div1 {
+    color: rgb(20, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+#Div2 {
+    color: rgb(20, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+#body {
+    background-color: brown;
+}

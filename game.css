@@ -1,0 +1,29 @@
+#body2 {
+    background-color: brown;
+}
+
+#output {
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#Question_input {
+    border-radius: 100px;
+    padding-right: 500px;
+    padding-left: 500px;
+}
+
+#Question_input2 {
+    border-radius: 100px;
+    padding-right: 500px;
+    padding-left: 500px;
+}
+
+#send {
+    padding-right: 30px;
+    padding-left: 30px;
+}
